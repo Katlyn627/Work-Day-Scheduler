@@ -1,8 +1,8 @@
 # Work-Day-Scheduler
 
-## Working GIF of Scheduler
+## Image of Scheduler
 
-
+![Screenshot (23)](https://user-images.githubusercontent.com/86095070/135365069-da41170e-1b22-40a2-b311-1958905646d8.png)
 
 ## User Story
 
