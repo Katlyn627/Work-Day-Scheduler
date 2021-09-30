@@ -37,9 +37,9 @@ The following animation demonstrates the application functionality:
 ## Deployment
 
 ```
-Public Page:
+Public Page: https://katlyn627.github.io/Work-Day-Scheduler/
 
-Github:
+Github: https://github.com/Katlyn627/Work-Day-Scheduler
 
 ```
 
